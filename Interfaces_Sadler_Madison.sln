@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces_Sadler_Madison", "Interfaces_Sadler_Madison\Interfaces_Sadler_Madison.csproj", "{DBAEC1F2-E5AB-4E66-AB30-7D0E080F573B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBAEC1F2-E5AB-4E66-AB30-7D0E080F573B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAEC1F2-E5AB-4E66-AB30-7D0E080F573B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAEC1F2-E5AB-4E66-AB30-7D0E080F573B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAEC1F2-E5AB-4E66-AB30-7D0E080F573B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {007AACB5-71CF-48F7-A3E3-AAE1DECFAA79}
+	EndGlobalSection
+EndGlobal
